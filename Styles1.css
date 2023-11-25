@@ -1,0 +1,21 @@
+body{
+    box-sizing: border-box;
+    background-color: aliceblue;
+    margin: 0;
+}
+.intro p{
+    height: 200px;
+    width: 200px;
+    margin: 10px;
+    padding: 10px;
+    line-height: 25px;
+    font-family: 'Vina Sans', sans-serif;
+    font-size:large;
+}
+
+.intro,.info,.Edu,.skill h2{
+    margin: 10px;
+}
+.skill ul li{
+    list-style:upper-roman;
+}
